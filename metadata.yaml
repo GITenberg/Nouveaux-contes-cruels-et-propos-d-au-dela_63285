@@ -1,0 +1,35 @@
+_repo: Nouveaux-contes-cruels-et-propos-d-au-dela_63285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villiers de L'Isle-Adam, Auguste, comte de
+    aliases:
+    - L'Isle-Adam, Auguste Villiers de, comte de
+    - Isle-Adam, Auguste Villiers de L', comte de
+    - Villiers de L'Isle-Adam, Jean Marie Mathias Philippe Auguste, comte de
+    - De L'Isle-Adam, Auguste Villiers, comte de
+    - Villiers de L'Isle-Adam, Philippe-Auguste-Mathias, comte de
+    - L'Isle-Adam, Auguste de Villiers de
+    birthdate: 1838
+    deathdate: 1889
+    gutenberg_agent_id: '6262'
+    url: http://www.gutenberg.org/2009/agents/6262
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+    - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
+description: ''
+gutenberg_issued: '2020-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63285'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- GITenberg
+title: Nouveaux contes cruels et propos d'au delà
+url: http://www.gutenberg.org/ebooks/63285
