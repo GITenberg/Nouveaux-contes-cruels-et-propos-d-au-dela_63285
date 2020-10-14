@@ -1,5 +1,8 @@
 _repo: Nouveaux-contes-cruels-et-propos-d-au-dela_63285
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63285-h/images/cover.jpg
 creator:
   author:
     agent_name: Villiers de L'Isle-Adam, Auguste, comte de
@@ -18,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
     - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63285#Nouveaux-contes-cruels-et-propos-d-au-dela
 gutenberg_issued: '2020-09-24'
 gutenberg_type: Text
 identifiers:
